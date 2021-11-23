@@ -13,3 +13,6 @@ Este fue creado con la finalidad de no interferir con el trabajo de la entidad d
 
 Extencion para macros 
 https://ui.vision/
+
+colab final del proyecto 
+https://colab.research.google.com/drive/1q6ZWXwIWLu6LOMFQ5g8xehzB_FKa2Gdb#scrollTo=6cpS3wE3Qpsi
