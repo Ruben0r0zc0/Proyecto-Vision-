@@ -10,3 +10,6 @@ https://colab.research.google.com/drive/1ZumHaSgCCfoLvN77kNvt94u_f4VxxXfO?usp=sh
 
 Entorno de trabajo seguro HTML
 Este fue creado con la finalidad de no interferir con el trabajo de la entidad de salud, durante el desarrollo de nuestra herramienta y al mismo tiempo proteger los datos de sus pacientes a la hora de mostrar el funcionamiento en tiempo real del sistema automático
+
+Extencion para macros 
+https://ui.vision/
