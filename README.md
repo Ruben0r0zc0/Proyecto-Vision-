@@ -8,5 +8,5 @@ Nuestro primer entorno de trabajo fue un notebook de google colab en el cual rea
 este se encuentra organizado de tal manera que puede correr de forma tanto local como online en los servidores de colab
 https://colab.research.google.com/drive/1ZumHaSgCCfoLvN77kNvt94u_f4VxxXfO?usp=sharing
 
-
-
+Entorno de trabajo seguro HTML
+Este fue creado con la finalidad de no interferir con el trabajo de la entidad de salud, durante el desarrollo de nuestra herramienta y al mismo tiempo proteger los datos de sus pacientes a la hora de mostrar el funcionamiento en tiempo real del sistema automático
